@@ -16,6 +16,10 @@ Search for: dotnet core web api
 - https://scoop.sh/
 
 
+## Ready WebAPI with Security built-in
+- https://github.com/Jalalhejazi/JwtAuthDemo
+
+
 
 ## First Web API project
 

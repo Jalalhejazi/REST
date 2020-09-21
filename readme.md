@@ -13,3 +13,14 @@ Search for: dotnet core web api
 - https://code.visualstudio.com/
 
 
+
+## First Web API project
+
+```PowerShell
+dotnet new webapi -o TodoApi
+cd TodoApi
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.InMemory
+code -r ../TodoApi
+
+```

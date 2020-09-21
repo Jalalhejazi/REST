@@ -37,8 +37,4 @@ dotnet build
 # How to run
 dotnet run
 
-# How to generate a dev certificate used only for localhost domain
-dotnet dev-certs https  --help
-dotnet dev-certs https  --export-path ./mycert.pfx --trust --password ******
-
 ```

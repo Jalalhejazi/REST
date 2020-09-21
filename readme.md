@@ -31,4 +31,10 @@ dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 dotnet add package Microsoft.EntityFrameworkCore.InMemory
 code .
 
+# How to build
+dotnet build
+
+# How to run
+dotnet run
+
 ```

@@ -19,6 +19,13 @@ Search for: dotnet core web api
 ## Ready WebAPI with Security built-in
 - https://github.com/Jalalhejazi/JwtAuthDemo
 
+```powershell
+git clone https://github.com/Jalalhejazi/JwtAuthDemo.git
+cd JwtAuthDemo
+#code readme.md
+
+```
+
 
 
 ## First Web API project

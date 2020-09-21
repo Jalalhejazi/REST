@@ -8,9 +8,11 @@ Search for: dotnet core web api
 
 
 
-## Editor
+## Tools
 
 - https://code.visualstudio.com/
+- https://github.com/tulios/json-viewer
+- google chrome
 
 
 

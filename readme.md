@@ -45,7 +45,13 @@ code .
 # How to build
 dotnet build
 
-# How to run
+# How to run any use default ports http://localhost:5000 and https://localhost:5001
 dotnet run
+
+# How to run and listen to any availabe free ports on http and https
+dotnet run --urls "http://[::1]:0;https://[::1]:0"
+
+
+
 
 ```

@@ -13,6 +13,7 @@ Search for: dotnet core web api
 - https://code.visualstudio.com/
 - https://github.com/tulios/json-viewer
 - google chrome
+- https://scoop.sh/
 
 
 

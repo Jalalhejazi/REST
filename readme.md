@@ -51,7 +51,12 @@ dotnet run
 # How to run and listen to any availabe free ports on http and https
 dotnet run --urls "http://[::1]:0;https://[::1]:0"
 
-
-
-
 ```
+
+## Open new terminal and test API 
+
+- https://localhost:5001/WeatherForecast
+- https://localhost:PORT/WeatherForecast
+
+
+

@@ -17,6 +17,11 @@ Search for: dotnet core web api
 ## First Web API project
 
 ```PowerShell
+
+scoop install dotnet-sdk
+dotnet --version 
+# expecting version 3.1.x
+
 dotnet new webapi -o TodoApi
 cd TodoApi
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer

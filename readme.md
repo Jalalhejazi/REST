@@ -14,6 +14,7 @@ Search for: dotnet core web api
 - https://github.com/tulios/json-viewer
 - google chrome
 - https://scoop.sh/
+- https://docs.servicestack.net/netcore
 
 
 ## Ready WebAPI with Security built-in

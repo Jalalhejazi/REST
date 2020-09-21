@@ -23,7 +23,7 @@ Search for: dotnet core web api
 ```powershell
 git clone https://github.com/Jalalhejazi/JwtAuthDemo.git
 cd JwtAuthDemo
-#code readme.md
+docker-compose up --build --remove-orphans
 
 ```
 

@@ -1,5 +1,10 @@
-## About REST API
+# The-future-of-net-standard
 
+- https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/
+
+
+
+## About REST API
 
 Search for: dotnet core web api
 

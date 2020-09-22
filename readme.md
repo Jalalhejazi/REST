@@ -11,13 +11,15 @@ Search for: dotnet core web api
 - https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1
 - https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio
 
+## Moderne MicroServices Architecture
+
+- https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf
+
 
 
 ## Tools
 
 - https://code.visualstudio.com/
-- https://github.com/tulios/json-viewer
-- google chrome
 - https://scoop.sh/
 - https://docs.servicestack.net/netcore
 

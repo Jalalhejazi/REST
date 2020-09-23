@@ -1,5 +1,11 @@
-# The-future-of-net-standard
+# REST API using dotnet core (3.1)
 
+
+
+
+
+
+## The-future-of-net-standard
 - https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/
 
 

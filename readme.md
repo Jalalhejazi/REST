@@ -44,6 +44,17 @@ docker-compose up --build --remove-orphans
 ```
 
 
+## Ready WebAPI with SQLSERVER Connection and Azure DevOps
+
+```powershell
+git clone https://dev.azure.com/superusers-kursus/Webapp-snippets
+cd Webapp-snippets
+code .
+dotnet build
+dotnet run
+```
+
+
 
 ## First Web API project
 

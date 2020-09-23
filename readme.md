@@ -68,3 +68,13 @@ dotnet run --urls "http://[::1]:0;https://[::1]:0"
 
 
 
+## Configuration 
+
+- [dotnet core ConnectionString](https://www.google.com/search?q=dotnet+core+connectionstring)
+
+
+
+
+
+
+

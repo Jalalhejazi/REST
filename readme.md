@@ -1,6 +1,9 @@
+You are reading README.md (markdown)
+
 # REST API using dotnet core (3.1)
 
-
+- use dotnet 3 or 5
+- ~~DO NOT USE dotnet 4.x~~
 
 
 
